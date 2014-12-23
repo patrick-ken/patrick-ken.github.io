@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://patrick-ken.github.io/
+author: Patrick Ken
+highlighter: pygments
+paginate: 24
