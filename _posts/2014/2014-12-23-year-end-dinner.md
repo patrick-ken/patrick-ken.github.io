@@ -2,7 +2,7 @@
 layout: post
 title: "小组年终聚餐-小辉哥火锅"
 description: ""
-category: 
+category: 生活点滴
 tags: []
 ---
 

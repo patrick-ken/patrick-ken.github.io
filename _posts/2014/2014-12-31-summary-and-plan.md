@@ -2,7 +2,7 @@
 layout: post
 title: "2014年终总结"
 description: ""
-category: 
+category: 生活点滴
 tags: [总结]
 ---
 

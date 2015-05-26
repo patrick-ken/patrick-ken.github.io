@@ -2,8 +2,8 @@
 layout: post
 title: "nmap nmap-mac-prefixes 生成脚本"
 description: ""
-category: 
-tags: [shell nmap mac]
+category: 编程开发
+tags: [shell, nmap, mac]
 ---
 ### 事情背景
 
